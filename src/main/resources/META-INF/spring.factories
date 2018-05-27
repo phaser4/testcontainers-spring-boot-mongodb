@@ -1,0 +1,2 @@
+org.springframework.cloud.bootstrap.BootstrapConfiguration=net.phaser4.testcontainers.mongodb.MongoDbTestContainersBootstrapAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=net.phaser4.testcontainers.mongodb.MongoDbTestContainersDependenciesConfiguration
